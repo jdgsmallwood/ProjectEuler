@@ -1,4 +1,4 @@
-probleminputfile = open('textinputs/Problem 13 input.txt')
+probleminputfile = open('../textinputs/Problem 13 input.txt')
 probleminputlines = probleminputfile.readlines()
 numbers = []
 

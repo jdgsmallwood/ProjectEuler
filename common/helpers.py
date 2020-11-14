@@ -1,3 +1,6 @@
+"""
+These are helper functions that tend to be used again and again.
+"""
 def digit_sum(n):
     array = str(n)
     sum = 0

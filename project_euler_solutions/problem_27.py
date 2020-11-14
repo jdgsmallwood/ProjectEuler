@@ -1,4 +1,4 @@
-from Helpers import get_primes
+from common.helpers import get_primes
 
 max_mod_a = 1000
 max_mod_b = 1000

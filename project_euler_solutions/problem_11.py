@@ -1,4 +1,4 @@
-probleminputfile = open('textinputs/Problem 11 input.txt')
+probleminputfile = open('../textinputs/Problem 11 input.txt')
 probleminputlines = probleminputfile.readlines()
 data = {}
 for i in range(len(probleminputlines)):
